@@ -27,3 +27,4 @@ This package produces the following:
 ***
 # MyFirstTeamsTab
 Building Microsoft Teams tab using SharePoint Framework - Tutorial
+![image](https://user-images.githubusercontent.com/19554935/52178542-0729b280-279e-11e9-96a0-df261fdf830a.png)
