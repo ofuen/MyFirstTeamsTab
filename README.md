@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## teams-tab-webpart
 
 This is where you include your WebPart documentation.
@@ -24,3 +25,7 @@ gulp test - TODO
 gulp serve - TODO
 gulp bundle - TODO
 gulp package-solution - TODO
+=======
+# MyFirstTeamsTab
+Building Microsoft Teams tab using SharePoint Framework - Tutorial
+>>>>>>> 454152a541d7572ace4460dd15c7719a178ebbb7
