@@ -23,7 +23,7 @@ This package produces the following:
 * gulp test - TODO
 * gulp serve - TODO
 * gulp bundle - TODO
-* gulp package-solution - TODO
+* gulp package-solution
 =======
 # MyFirstTeamsTab
 Building Microsoft Teams tab using SharePoint Framework - Tutorial
